@@ -1,6 +1,9 @@
-public class cobagithub{
+/**
+ * cobagithub
+ */
+public class cobagithub {
+
     public static void main(String[] args) {
-        System.out.println("Hello Github, ini adalah repositori pertama saya.");
-        
+        System.out.println("halo guys");
     }
 }
