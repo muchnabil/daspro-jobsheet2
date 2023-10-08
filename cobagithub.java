@@ -4,6 +4,6 @@
 public class cobagithub {
 
     public static void main(String[] args) {
-        System.out.println("halo guys");
+        System.out.println("hallo guys");
     }
 }
